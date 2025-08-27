@@ -1,3 +1,5 @@
+Time should be as of the observer - i love you all
+
 # symmetrical-guacamole
 MMind and HMind
 
